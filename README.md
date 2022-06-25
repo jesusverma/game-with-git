@@ -1,6 +1,6 @@
 # game-with-git
 
-# 2 changes
+# 2 changed
 
 # 2 changes
 
