@@ -13,3 +13,5 @@ function signup() {}
 function dashabord() {}
 
 function car() {}
+
+function thor() {}
