@@ -9,3 +9,5 @@ function koo() {}
 function login() {}
 
 function signup() {}
+
+function dashabord() {}
