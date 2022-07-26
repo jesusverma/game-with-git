@@ -15,3 +15,5 @@ function dashabord() {}
 function car() {}
 
 function thor() {}
+
+function spiderman() {}
