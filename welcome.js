@@ -3,3 +3,5 @@ function welcome() {
 }
 
 function foo() {}
+
+function koo() {}
