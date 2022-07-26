@@ -7,3 +7,5 @@ function foo() {}
 function koo() {}
 
 function login() {}
+
+function signup() {}
